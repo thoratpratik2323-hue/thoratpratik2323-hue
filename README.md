@@ -2,7 +2,7 @@
 
   <h1>⚡ Hi, I'm <span style="color: #00F0FF;">Pratik Thorat</span> 👋</h1>
   <h3>👑 Founder of <b>IP Verse</b> | Full Stack Developer & AI Engineer</h3>
-  <p>🎓 <b>Integrated M.Tech (AI & ML)</b> @ Sanjivani College of Engineering (2024–2029)</p>
+  <p>🎓 <b>Integrated M.Tech (AI & ML)</b> @ Sanjivani College of Engineering (2026–2031)</p>
   <p>🇯🇵 <i>Currently Learning Japanese (日本語学習中)</i></p>
 
   <p align="center">
