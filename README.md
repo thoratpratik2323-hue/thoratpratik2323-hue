@@ -1,48 +1,74 @@
 <div align="center">
 
-  <h1>⚡ Hi, I'm <span style="color: #00F0FF;">Pratik Thorat</span> 👋</h1>
-  <h3>👑 Founder of <b>IP Verse</b> | Full Stack Developer & AI Engineer</h3>
-  <p>🎓 <b>Integrated M.Tech (AI & ML)</b> @ Sanjivani College of Engineering (2026–2031)</p>
-  <p>🇯🇵 <i>Currently Learning Japanese (日本語学習中)</i></p>
+  <!-- Live Visitor Counter Badge -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=thoratpratik2323-hue&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_ROLES-00FF87?style=for-the-badge&logo=rocket&logoColor=black" />
+    <img src="https://img.shields.io/badge/JAPANESE-日本語学習中-FF007F?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  </p>
+
+  <!-- Cyberpunk Typing SVG Banner -->
+  <a href="https://pratik-pt1908.netlify.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=70&lines=⚡+PRATIK+BALASAHEB+THORAT+⚡;Full+Stack+Developer+%26+AI+Engineer;Founder+%40+IP+Verse+%F0%9F%91%91;Integrated+M.Tech+(AI+%26+ML)+2024--2029;Creator+of+IP+Prime+OS+%26+Project+Brain+v2;Building+Voice+AI+%26+Agentic+Swarm+Runtimes;Cosmology+%26+Astrophysics+Enthusiast+%F0%9F%8C%8C" alt="Typing SVG" />
+  </a>
+
+  <br/>
 
   <p align="center">
-    <a href="https://pratik-pt1908.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-pratik--pt1908.netlify.app-00F0FF?style=for-the-badge&logoColor=white" /></a>
+    🎓 <b>Integrated M.Tech (AI & ML)</b> @ Sanjivani College of Engineering, SPPU (2024–2029)
+    <br/>
+    👑 <b>Founder of IP Verse</b> — <i>Digital Empire for Autonomous Intelligence & Scalable Architectures</i>
+    <br/>
+    🇯🇵 <b>日本語を勉強しています</b> <i>(Actively Learning Japanese Language)</i>
+  </p>
+
+  <p align="center">
+    <a href="https://pratik-pt1908.netlify.app/"><img src="https://img.shields.io/badge/🌐_Official_Portfolio-pratik--pt1908.netlify.app-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/pratikpt1908/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:thoratpratik2323@gmail.com"><img src="https://img.shields.io/badge/Email-thoratpratik2323@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.instagram.com/pratik_pt1908"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 
-  <p><i>"Driven by systems programming, astrophysics, and modern AI architectures. Transforming ambitious ideas into persistent, autonomous intelligence."</i></p>
+  <!-- Glowing Animated Line Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-  <img src="https://camo.githubusercontent.com/819f791104e87de0776aa392ea6d3d2d7564984a6a65f0205ed5e2c76666066c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" width="320" />
+</div>
 
+<br/>
+
+---
+
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thoratpratik2323-hue&theme=tokyonight&no-bg=true&column=6&margin-w=15" width="100%" />
 </div>
 
 ---
 
-### 💻 Developer Identity
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 💻 Developer Identity Console (`pratik_thorat.py`)
 
 ```python
 class PratikThorat:
     def __init__(self):
         self.name = "Pratik Balasaheb Thorat"
-        self.education = "Integrated M.Tech in AI & ML (2024-2029) @ Sanjivani College of Engineering"
         self.role = "Full Stack Developer & AI Engineer"
+        self.education = "Integrated M.Tech (AI & ML) @ Sanjivani / SPPU"
         self.empire = "IP Verse 👑"
-        self.languages_spoken = ["English", "Hindi", "Marathi", "Japanese 🇯🇵 (日本語学習中)"]
-        self.status = "Open for Full-Time Roles, AI Engineering & Architecture Consulting"
-        self.metrics = {
-            "projects_built": "100+",
-            "certifications": "10+",
-            "learning": "Infinity ♾️"
-        }
-        self.tech_stack = {
-            "languages": ["Python", "JavaScript (ES6+)", "TypeScript", "Rust", "HTML5", "CSS3"],
-            "ai_ml_and_voice": ["Gemini Live API", "LLM Orchestration", "Graph-based RAG", "AST Parsing", "OpenCV", "AI Agents"],
-            "frontend_and_desktop": ["React.js", "Next.js", "Vite", "Tailwind CSS", "PyQt6 HUD", "Three.js", "Recharts"],
-            "backend_and_realtime": ["Node.js", "Express.js", "FastAPI", "Flask", "Socket.io", "WebSockets", "Playwright"],
-            "databases_and_tools": ["PostgreSQL", "MongoDB", "MySQL", "Git/GitHub", "Linux", "Docker", "REST APIs"]
-        }
-        self.beyond_coding = ["Japanese Language 🇯🇵", "Chess Strategy ♟️", "Cosmology & Space 🌌", "Anime 🎌"]
+        self.languages = ["English", "Hindi", "Marathi", "Japanese 🇯🇵"]
+        self.key_innovations = [
+            "IP Prime OS (PyQt6 HUD + 12 Agent IP Army)",
+            "Project Brain v2 (Graph RAG & Memory Sync)",
+            "S.A.T.U.R.D.A.Y (Gemini Live Voice AI & 8-Layer RAG)",
+            "VoxFlow (Voice Simulator & Speech Audit Engine)"
+        ]
+        self.passions = ["Systems Architecture", "Astrophysics 🌌", "Chess ♟️", "Anime 🎌"]
+        self.status = "Open for AI Engineering Roles & Architecture Consulting 🚀"
 
 me = PratikThorat()
