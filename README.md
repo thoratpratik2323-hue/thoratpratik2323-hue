@@ -9,7 +9,7 @@
 
   <!-- Typing SVG Banner -->
   <a href="https://pratik-pt1908.netlify.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+PRATIK+BALASAHEB+THORAT+%E2%9A%A1;Full+Stack+Developer+%26+AI+Systems+Engineer;Founder+%40+IP+Verse;Integrated+M.Tech+(AI+%26+ML);Autonomous+Agents+%26+Multimodal+Voice+RAG;Creator+of+OmniResearch+AI+%26+VoxFlow" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+PRATIK+BALASAHEB+THORAT+%E2%9A%A1;Full+Stack+Developer+%26+AI+Systems+Engineer;Founder+%40+IP+Verse;Integrated+M.Tech+(AI+%26+ML);Autonomous+Agents+%26+Multimodal+Voice+RAG;Creator+of+IP+Prime+%26+OmniResearch+AI" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -46,8 +46,8 @@ class PratikThorat:
         self.core_focus = [
             "Autonomous Multi-Agent Architecture",
             "Multimodal Voice Streaming (Gemini Live API)",
-            "Low-Latency Multilingual RAG Engines",
-            "Full-Stack Web Platforms & In-Browser Wasm"
+            "Desktop Neural Operating Systems & Knowledge Graphs",
+            "Full-Stack Web Platforms & In-Browser WebAssembly"
         ]
         self.passions = ["Systems Architecture", "Astrophysics 🌌", "Chess ♟️", "Anime ⚡"]
         self.status = "Open for AI / Full-Stack Roles & Collaboration 🚀"
@@ -57,20 +57,45 @@ me = PratikThorat()
 
 ---
 
-## 🌟 Featured Engineering Projects
+## 🚀 Public Projects Portfolio
 
-<div align="center">
+### 🧠 1. Autonomous AI, Agents & Neural Systems
+*Advanced agentic architectures, real-time voice streaming, and desktop cognitive systems.*
 
-| Project | Tech Stack | Highlights | Demo / Source |
+| Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **🤖 [OmniResearch AI](https://github.com/thoratpratik2323-hue/omniresearch-ai)** | `Python 3.11+`, `LangChain`, `FastAPI` | Autonomous multi-agent deep research platform with recursive web browsing and citation-backed report synthesis. | [Code ↗](https://github.com/thoratpratik2323-hue/omniresearch-ai) |
-| **🎙️ [VoxFlow](https://github.com/thoratpratik2323-hue/IP-VoxFlow-)** | `TypeScript`, `React`, `Gemini Live API` | Real-time calling simulator using duplex WebSockets and Gemini 2.5 Live multimodal audio streaming with PDF audits. | [Code ↗](https://github.com/thoratpratik2323-hue/IP-VoxFlow-) |
-| **🧠 [DOAP Platform](https://github.com/thoratpratik2323-hue/doap-intelligent-learning)** | `React 18`, `Vite`, `Pyodide Wasm`, `Firebase` | Intelligent learning ecosystem with in-browser Python Wasm compilation and Gemini AI tutor. | [Live App ↗](https://doap-1908.web.app) |
-| **🏠 [NESTRO Housing](https://github.com/thoratpratik2323-hue/nestro-student-housing)** | `React 18`, `Tailwind`, `Firebase Cloud` | India’s 1st AI-powered, 0% brokerage student housing platform with NEST AI recommendation engine. | [Live App ↗](https://nestro.web.app) |
-| **⚡ [IP Prime Ultra](https://github.com/thoratpratik2323-hue/IP-Prime)** | `Python 3.11+`, `PyQt6`, `NVIDIA NIM`, `SQLite Graph` | Autonomous AI desktop neural core with glassmorphic HUD, 8-layer SQLite Knowledge Graph memory, multi-model routing & proactive vision. | [Code ↗](https://github.com/thoratpratik2323-hue/IP-Prime) |
-| **🌐 [IP API Storage](https://github.com/thoratpratik2323-hue/ip-api-storage)** | `React 18`, `Vite`, `Cyberpunk CSS` | Dynamic public REST API directory & aggregator with real-time category filtering and auth telemetry. | [Live App ↗](https://ip-api-storage.netlify.app) |
+| **⚡ [IP Prime Ultra](https://github.com/thoratpratik2323-hue/IP-Prime)** | `Python 3.11+`, `PyQt6`, `NVIDIA NIM`, `SQLite Graph` | Autonomous AI desktop neural core with glassmorphic HUD, 8-layer SQLite Knowledge Graph memory, and proactive vision. | [Source ↗](https://github.com/thoratpratik2323-hue/IP-Prime) |
+| **🤖 [OmniResearch AI](https://github.com/thoratpratik2323-hue/omniresearch-ai)** | `Python 3.11+`, `LangChain`, `FastAPI` | Autonomous multi-agent deep research platform with recursive web browsing and citation-backed report synthesis. | [Source ↗](https://github.com/thoratpratik2323-hue/omniresearch-ai) |
+| **🎙️ [VoxFlow](https://github.com/thoratpratik2323-hue/IP-VoxFlow-)** | `TypeScript`, `React`, `Gemini Live API` | Real-time calling simulator using duplex WebSockets and Gemini 2.5 Live multimodal audio streaming with PDF audits. | [Source ↗](https://github.com/thoratpratik2323-hue/IP-VoxFlow-) |
+| **⚙️ [IP Codemaker Agent](https://github.com/thoratpratik2323-hue/IP-Codemaker-Agent-ip_agent_001)** | `Rust`, `FastAPI`, `React`, `WebGL` | Autonomous AI coding suite & multi-model API router with a futuristic 3D WebGL interface. | [Source ↗](https://github.com/thoratpratik2323-hue/IP-Codemaker-Agent-ip_agent_001) |
+| **🧬 [Project Brain v2](https://github.com/thoratpratik2323-hue/Project-Brain-v2)** | `AI Runtime`, `Knowledge Graph`, `AST` | AI-native engineering runtime giving LLMs permanent architectural memory across development sessions. | [Source ↗](https://github.com/thoratpratik2323-hue/Project-Brain-v2) |
+| **🌌 [IP Vexa](https://github.com/thoratpratik2323-hue/IP-Vexa)** | `Electron`, `HTML/JS`, `Multi-LLM` | Open-source neural desktop companion with dynamic switching across NVIDIA NIM, Claude 3.5, and GPT-4o. | [Source ↗](https://github.com/thoratpratik2323-hue/IP-Vexa) |
+| **🛰️ [S.A.T](https://github.com/thoratpratik2323-hue/sat)** | `Python`, `Local Daemon` | Lightweight personal AI desktop automation assistant and background workflow daemon. | [Source ↗](https://github.com/thoratpratik2323-hue/sat) |
 
-</div>
+<br/>
+
+### 🌐 2. Production Full-Stack Web & SaaS Applications
+*Deployed real-world platforms solving high-impact problems.*
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **🧠 [DOAP Platform](https://github.com/thoratpratik2323-hue/doap-intelligent-learning)** | `React 18`, `Vite`, `Pyodide Wasm`, `Firebase` | Intelligent learning ecosystem with in-browser Python Wasm compilation and Gemini AI tutor. | [Live Demo ↗](https://doap-1908.web.app) • [Source ↗](https://github.com/thoratpratik2323-hue/doap-intelligent-learning) |
+| **🏠 [NESTRO Housing](https://github.com/thoratpratik2323-hue/nestro-student-housing)** | `React 18`, `Tailwind`, `Firebase Cloud` | India’s 1st AI-powered, 0% brokerage student housing platform with NEST AI recommendation engine. | [Live Demo ↗](https://nestro.web.app) • [Source ↗](https://github.com/thoratpratik2323-hue/nestro-student-housing) |
+| **💰 [Kharcha Control](https://github.com/thoratpratik2323-hue/kharcha-control)** | `JavaScript`, `Tesseract OCR`, `PWA` | Smart student expense manager with automated receipt OCR, bank SMS parsing, and Gemini AI. | [Live Demo ↗](https://kharcha-control.web.app) • [Source ↗](https://github.com/thoratpratik2323-hue/kharcha-control) |
+| **🎫 [EventPulse](https://github.com/thoratpratik2323-hue/Event-Pulse)** | `JavaScript`, `Firebase`, `Vercel` | Campus event super-platform featuring cryptographic QR passes, calendar sync, and matchmaking. | [Live Demo ↗](https://event-pulse-beta.vercel.app) • [Source ↗](https://github.com/thoratpratik2323-hue/Event-Pulse) |
+| **⚡ [IP API Storage](https://github.com/thoratpratik2323-hue/ip-api-storage)** | `React 18`, `Vite`, `Cyberpunk CSS` | Dynamic public REST API directory & aggregator with real-time category filtering and auth telemetry. | [Live Demo ↗](https://ip-api-storage.netlify.app) • [Source ↗](https://github.com/thoratpratik2323-hue/ip-api-storage) |
+
+<br/>
+
+### 🏎️ 3. IoT, Interactive Systems & Data Dashboards
+*Embedded hardware, real-time analytics dashboards, and web interactivity.*
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **🚗 [ESP32 Wireless AI Car](https://github.com/thoratpratik2323-hue/esp32-wireless-ai-car)** | `C++`, `ESP32`, `Python`, `Scikit-Learn` | Modular 3D-printed robotic vehicle with ESP32 sensor streaming and Decision Tree edge ML obstacle navigation. | [Source ↗](https://github.com/thoratpratik2323-hue/esp32-wireless-ai-car) |
+| **🗺️ [Global Intel Dashboard](https://github.com/thoratpratik2323-hue/global-intel-dashboard)** | `React`, `Vite`, `Leaflet/Maps` | Real-time global intelligence, geopolitical events, and telemetry tracking dashboard. | [Live Demo ↗](https://thoratpratik2323-hue.github.io/global-intel-dashboard/) • [Source ↗](https://github.com/thoratpratik2323-hue/global-intel-dashboard) |
+| **♟️ [Chess Hub](https://github.com/thoratpratik2323-hue/chess-hub)** | `JavaScript`, `HTML5 Canvas`, `CSS3` | Interactive web-based chess engine with legal move validation, board state rendering, and timers. | [Live Demo ↗](https://thoratpratik2323-hue.github.io/chess-hub/) • [Source ↗](https://github.com/thoratpratik2323-hue/chess-hub) |
+| **🎮 [The Great Game](https://github.com/thoratpratik2323-hue/The-Great-Game)** | `JavaScript`, `Canvas API`, `Web Game` | Web-based interactive game featuring canvas rendering, physics loop, and collision detection. | [Source ↗](https://github.com/thoratpratik2323-hue/The-Great-Game) |
 
 ---
 
@@ -92,6 +117,7 @@ me = PratikThorat()
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite_6-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
